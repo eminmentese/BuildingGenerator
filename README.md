@@ -3,7 +3,7 @@ Tools for urban planning automation
 This specific tool creates building layouts based on given variables such as:
 Total population
 Average building heights
-Average building footprints
+Average building footprints veli
 Average household size
 Average dwelling area
 
