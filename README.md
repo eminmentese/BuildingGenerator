@@ -9,3 +9,5 @@ Average dwelling area
 
 
 Added a test line
+
+Ali buraya cumle ekledi
